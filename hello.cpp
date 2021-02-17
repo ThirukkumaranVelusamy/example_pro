@@ -7,5 +7,6 @@ int main()
 	cout << 2+3 << endl;
 	cout << 5*8 << endl;
 	cout << 5-1 << endl;
+	cout << "Thiru" << endl;
 	return 0;
 }
