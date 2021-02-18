@@ -8,5 +8,6 @@ int main()
 	cout << 5*8 << endl;
 	cout << 5-1 << endl;
 	cout << "Thiru" << endl;
+	cout << "patch file added" << endl;
 	return 0;
 }
